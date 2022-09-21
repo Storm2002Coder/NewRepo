@@ -15,5 +15,4 @@ Normal text
  2.item 2
  3.item 3
    
- -[]item 1 incomplete
- -[x]item 2 complete
+ 
